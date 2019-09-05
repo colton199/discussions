@@ -1,1 +1,1 @@
-# disscusions
+# discussions
